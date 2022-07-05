@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ahmedeid533
-- 👀 I’m interested in ... being rich 😂
+- 👀 I’m interested in ... learning
 - 🌱 I’m currently learning ... backend wepdev
 - 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me ... whatsapp 01003945187
