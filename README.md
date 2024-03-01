@@ -1,7 +1,7 @@
-- 👋 Hi, I’m ahmed eid gomaa
-- 👀 I’m interested in learning
+- 👋 Hi, I’m Ahmed Eid Gomaa
+- 👀 I’m interested in learning and enriching my knowledge
 - 🌱 I’m currently learning React
-- 💞️ I’m looking to collaborate on an internship
+- 💞️ I’m looking for a remote part-time job
 - 📫 How to reach me WhatsApp 01003945187
 - 📫 Email : ahmedeidgoma333@gmail.com
 - 👋 Resume https://docs.google.com/document/d/1cIEBAsm05DUWzDx-fCepMCePCjDxVg4XUDk0izMU500/edit?usp=sharing
