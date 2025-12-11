@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Ahmed Eid Gomaa
 - 👀 I’m interested in learning and enriching my knowledge
-- 🌱 I’m currently learning React
-- 💞️ I’m looking for a job
-- 📫 How to reach me WhatsApp 01003945187
+- 💻 I’m currently A Front-End Developer at ZAS ✈️
+- 💞️ I’m looking for a Out Country Job
+- 📫 How to reach me Easiest Way Via WhatsApp 01003945187
 - 📫 Email : ahmedeidgoma333@gmail.com
 - 👋 Resume https://docs.google.com/document/d/1cIEBAsm05DUWzDx-fCepMCePCjDxVg4XUDk0izMU500/edit?usp=sharing
 <!---
