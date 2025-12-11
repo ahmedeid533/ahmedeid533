@@ -14,28 +14,50 @@ A passionate developer dedicated to building impactful software solutions. I thr
 
 ## 🔥 GitHub Stats & Metrics
 
-<a href="https://github.com/ahmedeid533">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmedeid533&show_icons=true&theme=buefy&hide_border=false&locale=en&rank_icon=github" alt="Ahmed Eid GitHub Stats" />
-</a>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=691AE6&width=435&lines=Software+Developer;Full-Stack+Enthusiast;Always+Learning+New+Tech)](https://git.io/typing-svg)
 
-## 🗓️ GitHub Contribution Streak
+---
 
-<a href="https://github.com/ahmedeid533">
-  <img align="center" src="https://github-readme-streak-stats.vercel.app/?user=ahmedeid533&theme=buefy&hide_border=false" alt="Ahmed Eid GitHub Streak" />
-</a>
+### 🚀 Stats & Streaks
 
-## 💻 My Most Used Languages
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ahmedeid533&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=691AE6&icon_color=691AE6" alt="Ahmed Eid's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.demolab.com?user=ahmedeid533&theme=tokyonight&hide_border=true&dates=691AE6" alt="GitHub Streak" />
+</p>
 
-<a href="https://github.com/ahmedeid533">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedeid533&layout=compact&langs_count=8&theme=buefy&hide_border=false" alt="Ahmed Eid Top Languages" />
-</a>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedeid533&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&title_color=691AE6&icon_color=691AE6" alt="Top Languages" />
+</p>
 
-## 👀 Profile Views
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ahmedeid533&theme=tokyonight&no-bg=true&title_color=691AE6" alt="GitHub Trophies" />
+</p>
 
-<a href="https://github.com/ahmedeid533">
-  <img src="https://komarev.com/ghpvc/?username=ahmedeid533&color=blue&style=flat-square" alt="Profile views" />
-</a>
+---
 
+### 🛠️ My Current Tech Stack
+*(Edit this section to reflect your main skills!)*
+
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+</p>
+
+---
+
+### 📊 Profile Views
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=ahmedeid533&style=for-the-badge&color=691AE6" alt="Profile views" />
+</div>
 ---
 
 ## 🛠️ Technologies & Tools
