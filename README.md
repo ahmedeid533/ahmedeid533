@@ -15,7 +15,7 @@ A passionate developer dedicated to building impactful software solutions. I thr
 ## 🔥 GitHub Stats & Metrics
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=691AE6&width=435&lines=Software+Developer;Full-Stack+Enthusiast;Always+Learning+New+Tech)](https://git.io/typing-svg)
-
+<!---
 ### 🚀 Stats & Streaks
 
 <p align="center">
@@ -29,6 +29,7 @@ A passionate developer dedicated to building impactful software solutions. I thr
 <p align="center">
   <img src="https://github-readme-streak-stats.demolab.com?user=ahmedeid533&theme=tokyonight&hide_border=true&dates=691AE6" alt="GitHub Streak" />
 </p>
+--->
 
 
 ### 📊 Profile Views
