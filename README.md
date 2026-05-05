@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ahmed Eid Gomaa
 - 👀 I’m interested in learning and enriching my knowledge
-- 💻 I’m currently A Front-End Developer at ZAS ✈️
+- 💻 I’m currently A Team Leader Front-End Developer at ZAS ✈️
 - 💞️ I’m looking for a Out Country Job
 - 📫 How to reach me Easiest Way Via WhatsApp 01003945187
 - 📫 Email : ahmedeidgoma333@gmail.com
